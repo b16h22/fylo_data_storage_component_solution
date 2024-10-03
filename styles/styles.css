@@ -181,7 +181,6 @@
 
       .card-one {
         max-width: 100%;
-        padding: 3rem;
         margin: 0 0 1rem 0;
         border-radius: 0.75rem 8rem 0.75rem 0.75rem;
       }
@@ -198,7 +197,7 @@
       .icon {
         width: 4rem;
         height: 4rem;
-        margin-right: 1.25rem;
+        margin-right: 1rem;
       }
 
       .document, .folder, .upload {

@@ -225,11 +225,4 @@
       
     }
 
-    @media screen and (min-width:90em) {
-
-      body {
-        background-position-y: 100%;
-      }
-      
-    }
 
